@@ -1,1 +1,2 @@
-# Thumbs-up-Sentiment-Classification-using-Machine-Learning-TechniquesTwitter-se
+# Thumbs-up-Sentiment-Classification-using-Machine-Learning-TechniquesTwitter-sentiment analysis 
+In this research, we take a look at the challenge of classifying users' feelings based on the tweets they post. In order to carry out sentiment analysis, we make use of a variety of machine learning and deep learning techniques. To achieve the classification accuracy of 86.58% on the kaggle general population list, we use a majority vote ensemble strategy with our several top models
